@@ -10,3 +10,7 @@ Ini adalah proyek layanan konsultasi menggunakan Laravel dengan fitur webchat. P
 - **Dashboard Admin**: Dashboard untuk admin untuk melihat aktivitas konsultasi dan pengguna.
 
 ## Preview
+
+## NOTE
+
+Perlu diperhatikan bahwa source code proyek ini tidak dibagikan secara publik di GitHub. Hal ini dikarenakan adanya data sensitif dan fakta integritas yang telah disepakati untuk tidak disebarluaskan. Selain itu, sistem ini telah diberikan kepada pihak lain sesuai dengan perjanjian yang telah ditandatangani. Terima kasih atas pengertiannya.
